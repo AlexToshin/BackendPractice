@@ -1,7 +1,0 @@
-C:\Users\Alex\source\repos\VS_Projects\BackendT3\bin\Debug\BackendT3.exe.config
-C:\Users\Alex\source\repos\VS_Projects\BackendT3\bin\Debug\BackendT3.exe
-C:\Users\Alex\source\repos\VS_Projects\BackendT3\bin\Debug\BackendT3.pdb
-C:\Users\Alex\source\repos\VS_Projects\BackendT3\obj\Debug\BackendT3.csproj.AssemblyReference.cache
-C:\Users\Alex\source\repos\VS_Projects\BackendT3\obj\Debug\BackendT3.csproj.CoreCompileInputs.cache
-C:\Users\Alex\source\repos\VS_Projects\BackendT3\obj\Debug\BackendT3.exe
-C:\Users\Alex\source\repos\VS_Projects\BackendT3\obj\Debug\BackendT3.pdb
